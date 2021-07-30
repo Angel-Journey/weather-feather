@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/%3Cweather-feather%3E/static/css/main.6186c64d.chunk.css",
-    "main.js": "/%3Cweather-feather%3E/static/js/main.7b904474.chunk.js",
-    "main.js.map": "/%3Cweather-feather%3E/static/js/main.7b904474.chunk.js.map",
-    "runtime-main.js": "/%3Cweather-feather%3E/static/js/runtime-main.2ef8f38a.js",
-    "runtime-main.js.map": "/%3Cweather-feather%3E/static/js/runtime-main.2ef8f38a.js.map",
-    "static/js/2.36cb55ff.chunk.js": "/%3Cweather-feather%3E/static/js/2.36cb55ff.chunk.js",
-    "static/js/2.36cb55ff.chunk.js.map": "/%3Cweather-feather%3E/static/js/2.36cb55ff.chunk.js.map",
-    "static/js/3.a42e8944.chunk.js": "/%3Cweather-feather%3E/static/js/3.a42e8944.chunk.js",
-    "static/js/3.a42e8944.chunk.js.map": "/%3Cweather-feather%3E/static/js/3.a42e8944.chunk.js.map",
-    "index.html": "/%3Cweather-feather%3E/index.html",
-    "static/css/main.6186c64d.chunk.css.map": "/%3Cweather-feather%3E/static/css/main.6186c64d.chunk.css.map",
-    "static/js/2.36cb55ff.chunk.js.LICENSE.txt": "/%3Cweather-feather%3E/static/js/2.36cb55ff.chunk.js.LICENSE.txt"
+    "main.css": "/weather-feather/static/css/main.6186c64d.chunk.css",
+    "main.js": "/weather-feather/static/js/main.7b904474.chunk.js",
+    "main.js.map": "/weather-feather/static/js/main.7b904474.chunk.js.map",
+    "runtime-main.js": "/weather-feather/static/js/runtime-main.8bf75d91.js",
+    "runtime-main.js.map": "/weather-feather/static/js/runtime-main.8bf75d91.js.map",
+    "static/js/2.f1b99799.chunk.js": "/weather-feather/static/js/2.f1b99799.chunk.js",
+    "static/js/2.f1b99799.chunk.js.map": "/weather-feather/static/js/2.f1b99799.chunk.js.map",
+    "static/js/3.a42e8944.chunk.js": "/weather-feather/static/js/3.a42e8944.chunk.js",
+    "static/js/3.a42e8944.chunk.js.map": "/weather-feather/static/js/3.a42e8944.chunk.js.map",
+    "index.html": "/weather-feather/index.html",
+    "static/css/main.6186c64d.chunk.css.map": "/weather-feather/static/css/main.6186c64d.chunk.css.map",
+    "static/js/2.f1b99799.chunk.js.LICENSE.txt": "/weather-feather/static/js/2.f1b99799.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2ef8f38a.js",
-    "static/js/2.36cb55ff.chunk.js",
+    "static/js/runtime-main.8bf75d91.js",
+    "static/js/2.f1b99799.chunk.js",
     "static/css/main.6186c64d.chunk.css",
     "static/js/main.7b904474.chunk.js"
   ]
