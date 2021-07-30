@@ -3,8 +3,8 @@ import { Link } from 'react-router-dom'
 import styled from 'styled-components'
 
 const Header = styled.header`
-  background-color: lightSteelBlue;
-  color: white;
+  background-color: lightgrey;
+  color: black;
 `
 
 const Title = styled.span`
@@ -22,7 +22,7 @@ const NavLink = styled(Link)`
   margin-right: 1rem;
   font-size: 1.5rem;
   height: 100%;
-  color: #FFF;
+  color: black;
   &:hover {
      color: LightSkyBlue;
   }
@@ -31,7 +31,7 @@ const NavLink = styled(Link)`
 const Nav = () => (
   <Header>
     <div className='container'>
-      <Title>Weather Feather 🦚 </Title>
+      <Title> Weather Feather 🦚 </Title>
       <NavLinks>
         <NavLink to='/'>Home</NavLink>
         <NavLink to='/about'>About</NavLink>

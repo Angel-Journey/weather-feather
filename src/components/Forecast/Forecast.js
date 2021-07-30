@@ -53,7 +53,7 @@ const Forecast = () => {
                         />
                     Celcius
                 </label>
-                <OutlineButton primaryColor='HotPink' rounded='true' type="submit">Get Forecast</OutlineButton>
+                <OutlineButton primaryColor='LightSteelBlue' rounded='true' type="submit">Get Forecast</OutlineButton>
             </form>
       <Conditions
         responseObj={responseObj}

@@ -9,6 +9,7 @@ import SolidButton from './SolidButton'
 const OutlineButton = styled(SolidButton)`
   color: ${props => props.primaryColor};
   background-color: transparent;
+  font-size: 1rem;
   &:hover {
     color: white;
     background-color: ${props => props.primaryColor}
