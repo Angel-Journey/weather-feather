@@ -1,6 +1,6 @@
 {
   "name": "weather-feather",
-  "homepage": "https://<angel-journey>.github.io/<weather-feather>",
+  "homepage": "https://angel-journey.github.io/weather-feather",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
